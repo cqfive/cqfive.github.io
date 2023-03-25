@@ -30,7 +30,7 @@ Xianjin Xia, **Qianwu Chen**, Ningning Hou, Yuanqing Zheng, In ACM SenSys, Bosto
 [**TMC**] **"Extending Delivery Range and Decelerating Battery Aging of Logistics UAVs using Public Buses"** <br/> 
  Yan Pan∗, **Qianwu Chen∗**, Nan Zhang, Zhigang Li, Ting Zhu, Qingye Han, IEEE Transactions on Mobile Computing, 2022. (Co-Primary author) <br/>
 
-[[UbiComp'21](https://www.ubicomp.org/ubicomp2021/)] **“Efficient Schedule of Energy-Constrained UAV Using Crowdsourced Buses in Last-Mile Parcel Delivery”** **（Best paper Candidate）**<br/>
+[[UbiComp'21](https://www.ubicomp.org/ubicomp2021/)] **“Efficient Schedule of Energy-Constrained UAV Using Crowdsourced Buses in Last-Mile Parcel Delivery”**<br/>
 Yan Pan, Shining Li, **Qianwu Chen**, Nan Zhang, Tao Cheng, Zhigang Li, Bin Guo, In ACM UbiComp, Cancun, M´exico, 2021. <br/>
 
 
