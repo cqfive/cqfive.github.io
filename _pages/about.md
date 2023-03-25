@@ -21,7 +21,7 @@ Low Power Wide Area Networks(LPWAN), Artificial Intelligence of Things(AIoT)
 Publication
 ======
 ------
---[[MobiCom'23](https://sigmobile.org/mobicom/2023/)] **“XCopy: Boosting Weak Links for Reliable LoRa Communication”** <br/>
+[[MobiCom'23](https://sigmobile.org/mobicom/2023/)] **“XCopy: Boosting Weak Links for Reliable LoRa Communication”** <br/>
 Xianjin Xia, **Qianwu Chen**, Ningning Hou, Yuanqing Zheng, In ACM MobiCom, Madrid, Spain, Oct. 2023. <br/>
 
 [[SenSys'22](https://sensys.acm.org/2022/)] **“HyLink: Towards High Throughput LPWANs with LoRa Compatible Communication”**<br/>
