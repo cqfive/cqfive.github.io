@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Qianwu Chen (陈前伍). I am a first year Ph.D. student from Shanghai Jiao Tong University under the supervision of by Prof. Meng Jin. Prior to this, I received my M.E. degree from Northwestern Polytechnical University in 2022 and B.E. degree from Southwest Petroleum University in 2019.
+My name is Qianwu Chen (陈前伍). I am a first year Ph.D. student from Shanghai Jiao Tong University under the supervision of Prof. Meng Jin. Prior to this, I received my M.E. degree from Northwestern Polytechnical University in 2022 and B.E. degree from Southwest Petroleum University in 2019.
 Feel free to contact me at [chenqfive@sjtu.edu.cn].
 
 Research Interets
