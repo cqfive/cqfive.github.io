@@ -12,7 +12,7 @@ My name is Qianwu Chen (陈前伍). I am a first year Ph.D. student from Shangha
 
 Feel free to contact me at [chenqfive@sjtu.edu.cn].
 
-Research Interets
+Research Interests
 ======
 ------
 Low Power Wide Area Networks(LPWAN), Artificial Intelligence of Things(AIoT)
