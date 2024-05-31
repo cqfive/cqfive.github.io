@@ -21,6 +21,9 @@ Low Power Wide Area Networks(LPWAN), Artificial Intelligence of Things(AIoT)
 Publication
 ======
 ------
+[**ToN**] **"Hylink: Towards High Throughput LPWANs with LoRa Compatible Communication"** <br/> 
+ Xianjin Xia, **Qianwu Chen**, Ningning Hou, Yuanqing Zheng, Tao Gu, IEEE/ACM Transactions on Networking (TON), Mar. 2024. <br/>
+ 
 [[MobiCom'23](https://sigmobile.org/mobicom/2023/)] **“XCopy: Boosting Weak Links for Reliable LoRa Communication”** <br/>
 Xianjin Xia, **Qianwu Chen**, Ningning Hou, Yuanqing Zheng, In ACM MobiCom, Madrid, Spain, Oct. 2023. <br/>
 
